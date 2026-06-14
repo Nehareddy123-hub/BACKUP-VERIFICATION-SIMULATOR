@@ -159,7 +159,6 @@ pytest test_app.py -v
 ```
 
 ```
-=======
 - **Assumptions**: The system assumes the source database schema is relatively stable and its `sqlite_master` representation fits within the token limits of the LLM. It also assumes the local environment has internet access to reach the Gemini and GitHub APIs.
 - **Limitations**: Currently restricted to SQLite databases. Extremely large enterprise databases might take a long time to restore to the local sandbox environment. While the AI's dynamically generated SQL queries are executed in an isolated sandbox database, executing AI-generated SQL always carries theoretical injection risks if the LLM hallucinates destructive commands (though mitigated entirely by the sandboxed file copy architecture).
 
@@ -170,4 +169,4 @@ pytest test_app.py -v
 [Nehareddy](https://drive.google.com/file/d/1X3aZCDc1kjDdoN2Mb6HCdkjKJq6wTOIa/view?usp=drivesdk)
 [Meenakshi](https://drive.google.com/file/d/11KQbctSrG4xHzOSWjICCslbWCiDQh1U5/view?usp=drivesdk)
 [Laksmi Bhavana](https://drive.google.com/file/d/1RJbs5Sv4KFplErq3mIvAY3mhxKUgW6SI/view?usp=drivesdk)
-[Santhisree](https://docs.google.com/document/d/16bQGP6NCLjv6dvtqutbUHLgSLiiz_ruK/edit?usp=drivesdk&ouid=114174249329038456558&rtpof=true&sd=true)
+[Santhisree](https://drive.google.com/file/d/1Yn4dK5DdNWhuKRdbdRA5Fb-KEQFjJJu-/view?usp=drivesdk)
