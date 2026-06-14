@@ -181,3 +181,7 @@ pytest test_app.py -v
 ## Demo Video Link
 [Watch Backup Verification Simulator Demo](https://drive.google.com/file/d/1SpUh4oJrUSeFMU1WbGIwB0evZMR9-sS8/view?usp=drivesdk)
 >>>>>>> 8f8e9ae6d3a64d69cdcb2697c043aba3aa99a759
+>>>>>>>
+
+## Resumes
+[Nehareddy](https://drive.google.com/file/d/1X3aZCDc1kjDdoN2Mb6HCdkjKJq6wTOIa/view?usp=drivesdk)
